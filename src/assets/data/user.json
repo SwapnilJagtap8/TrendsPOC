@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Smith",
+      "lastName": "Jane",
+      "mobileNumber": 8659865945,
+      "isActive": "yes"
+    },
+    {
+      "id": "2",
+      "firstName": "John",
+      "lastName": "Doe",
+      "mobileNumber": 8569865945,
+      "isActive": "no"
+    },
+    {
+      "id": 3,
+      "firstName": "peter",
+      "lastName": "S",
+      "mobileNumber": 8659865945,
+      "isActive": "yes"
+    },
+    {
+      "id": "7348",
+      "firstName": "Sam",
+      "lastName": "T",
+      "mobileNumber": "789658465",
+      "isActive": "no"
+    }
+  ]
+}
